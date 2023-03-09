@@ -53,7 +53,7 @@ After applying the K-means algorithm to both perspectives and merging them using
 * Use of booking on Arrival with the highest frequency.
 * Marketing campaigns should be prioritised towards this cluster. 
 
-### Cluster 4 – Not so Simple Customers:
+### Cluster 4 – Large Event & Seasonal Groups:
 
 * Significantly high Revenue, Persons, and Rooms Booked per Night.
 * Low demand for Hotel Services.
