@@ -51,7 +51,10 @@ After applying the K-means algorithm to both perspectives and merging them using
 * Most Valuable cluster in Total revenue Count.
 * Exclusively North American Clients.
 * Use of booking on Arrival with the highest frequency.
-* Marketing campaigns should be prioritised towards this cluster. Cluster 4 – Not so Simple Customers:
+* Marketing campaigns should be prioritised towards this cluster. 
+
+### Cluster 4 – Not so Simple Customers:
+
 * Significantly high Revenue, Persons, and Rooms Booked per Night.
 * Low demand for Hotel Services.
 * Significantly high special request count.
